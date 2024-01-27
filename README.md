@@ -1,4 +1,3 @@
-![IMG_1247](https://github.com/Benadine30/Exploration-Hotel-Booking-/assets/105176448/d82f11d2-77c6-478b-bf79-dfe5dafbcb0c)
 # INTRODUCTION:
 In the vast world of hospitality industry, understanding the complexities of hotel bookings is essential for providing tailored services to both local and international clients. As a data analyst, I have had the opportunity to analyze the dataset spanning a decade, from January 2010 to December 2019, to unravel the patterns and trends in hotel bookings. This exploration aimed to extract actionable insights that could guide our efforts in optimizing services for international travelers.
 
@@ -22,7 +21,9 @@ RECOMMENDATION:
 1) Expand target markets, since the majority of bookings came from Thailand, Indonesia, Singapore, and Malaysia, it would be beneficial to explore new potential markets. Conduct market research to identify other countries with a growing number of travelers who may be interested in visiting the hotel's destinations.
   
 2) Identify previous guests who have rated the hotel highly and develop personalized offers to encourage them to return. This could include loyalty programs and exclusive perks for returning guests, such as discounted rates, room upgrades, or complimentary services.
+3) ![IMG_1247](https://github.com/Benadine30/Exploration-Hotel-Booking-/assets/105176448/4b2a6bd2-6323-4452-86a2-a86249d0246d)
+
    
-3) Develop diversified marketing strategies, leveraging both online and offline channels. Implement targeted promotions during peak booking seasons and collaborate with travel agencies to attract a broader audience.
+4) Develop diversified marketing strategies, leveraging both online and offline channels. Implement targeted promotions during peak booking seasons and collaborate with travel agencies to attract a broader audience.
    
-4) Prioritize safety and communicate enhanced hygiene measures. Provide flexible cancellation policies and special promotions to encourage bookings despite uncertainties. Leverage digital platforms for transparent communication about safety measures.
+5) Prioritize safety and communicate enhanced hygiene measures. Provide flexible cancellation policies and special promotions to encourage bookings despite uncertainties. Leverage digital platforms for transparent communication about safety measures.
