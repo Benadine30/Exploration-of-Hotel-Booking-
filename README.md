@@ -1,3 +1,4 @@
+![IMG_1247](https://github.com/Benadine30/Exploration-Hotel-Booking-/assets/105176448/d82f11d2-77c6-478b-bf79-dfe5dafbcb0c)
 # INTRODUCTION:
 In the vast world of hospitality industry, understanding the complexities of hotel bookings is essential for providing tailored services to both local and international clients. As a data analyst, I have had the opportunity to analyze the dataset spanning a decade, from January 2010 to December 2019, to unravel the patterns and trends in hotel bookings. This exploration aimed to extract actionable insights that could guide our efforts in optimizing services for international travelers.
 
